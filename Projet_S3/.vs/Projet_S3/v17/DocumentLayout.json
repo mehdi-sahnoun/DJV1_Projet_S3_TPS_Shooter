@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Projet_S3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\playercaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\healingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|c:\\users\\pc\\projet_s3\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\enenyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enenyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|C:\\Users\\pc\\Projet_S3\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5F7B50-1006-BFA3-18DF-3DF621AF8B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHP.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:00:58.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:14:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnenyHP.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\EnenyHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnenyHP.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\EnenyHP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnenyHP.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:40:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealingItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\HealingItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealingItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\HealingItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealingItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:00:51.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:35:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:35:30.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:00:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCaracter.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\PlayerCaracter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCaracter.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\PlayerCaracter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCaracter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:18:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\pc\\Projet_S3\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:15:34.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
